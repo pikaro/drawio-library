@@ -1,1 +1,9 @@
-<mxlibrary>[]</mxlibrary>
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"90\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"2-OS\" style=\"rounded=0;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" width=\"80\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"30\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"10\" y=\"30\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=none;html=1;rounded=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"10\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"10\" y=\"10\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"1\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20\" y=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" value=\"2\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20\" y=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 90,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "2-OS"
+  }
+]</mxlibrary>
